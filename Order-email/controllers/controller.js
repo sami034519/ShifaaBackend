@@ -98,7 +98,7 @@ router.post("/", async (req, res) => {
         <p><strong>Total Items:</strong> ${products.length}</p>
         <p>Delivery Address: ${address}</p>
         <hr />
-        <p>If you have any questions, reply to this email or contact us on WhatsApp: ${whatsapp}</p>
+        <p>If you have any questions, reply to this email or contact us on WhatsApp: 0300-0174432</p>
         <br/>
         <p>Best regards,<br/>Shifayaab Team</p>
       `,
