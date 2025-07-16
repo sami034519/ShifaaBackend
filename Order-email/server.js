@@ -6,6 +6,7 @@ const app = express();
 
 // ✅ List of all allowed frontend domains
 const allowedOrigins = [
+  "https://www.shifayaab.com",
   "https://shifayaab.vercel.app",
   "http://localhost:3000", 
 ];
